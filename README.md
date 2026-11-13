@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://fusionproxy.net/?utm_source=github&utm_medium=python-async-scraping">
+  <a href="https://fusionproxy.net/?utm_source=github&utm_medium=referral&utm_campaign=python-async-scraping">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FusionProxies/.github/main/assets/logo-on-dark.png">
       <img src="https://raw.githubusercontent.com/FusionProxies/.github/main/assets/logo-on-light.png" alt="Fusion Proxy" height="52">
@@ -122,7 +122,7 @@ Both work well; httpx is easier if you already know requests.
 - [rotating-proxies-python](https://github.com/FusionProxies/rotating-proxies-python): rotate a proxy list and drop dead proxies
 - [scrapy-proxy-middleware](https://github.com/FusionProxies/scrapy-proxy-middleware): Scrapy does async crawling for you
 
-[Fusion Proxy residential proxies](https://fusionproxy.net/proxies/residential?utm_source=github&utm_medium=python-async-scraping) from $2.95/GB, with a [free trial](https://fusionproxy.net/free-trial?utm_source=github&utm_medium=python-async-scraping).
+[Fusion Proxy residential proxies](https://fusionproxy.net/proxies/residential?utm_source=github&utm_medium=referral&utm_campaign=python-async-scraping) from $2.95/GB, with a [free trial](https://fusionproxy.net/free-trial?utm_source=github&utm_medium=referral&utm_campaign=python-async-scraping).
 
 ## License
 
